@@ -43,7 +43,52 @@ ALTER COLUMN asin NVARCHAR(50) NOT NULL;
 ALTER TABLE Tabla_Metadata
 ADD PRIMARY KEY (asin);
 
+
+-- Le cambiamos la ropa al ASIN para que coincida con Metadata y SSIS
+ALTER TABLE Tabla_Resenas
+ALTER COLUMN asin NVARCHAR(50);
+
+-- Actualizamos las que faltan para que sean Unicode (NVARCHAR)
+ALTER TABLE Tabla_Resenas
+ALTER COLUMN reviewerID NVARCHAR(100);
+
+
 SELECT COUNT(*) AS Total_Registros 
 FROM Tabla_Metadata;
 
-SELECT TOP 10 * FROM Tabla_Metadata;
+TRUNCATE TABLE Tabla_Resenas;
+
+SELECT COUNT(*) FROM Tabla_Resenas
+
+SELECT TOP 5000 * FROM Tabla_Metadata;
+
+SELECT TOP 10000 * FROM Tabla_Resenas;
+
+SELECT TOP 10000 * FROM Tabla_Resenas WHERE asin IN (SELECT asin FROM Tabla_Metadata)
+
+-- 1. Borramos hasta que queden 5 millones exactos
+WHILE (SELECT COUNT(*) FROM Tabla_Resenas) > 5000000
+BEGIN
+    DELETE TOP (500000) FROM Tabla_Resenas;
+END
+GO
+
+-- 2. OBLIGATORIO: Le decimos a SQL que nos devuelva ese espacio físico
+DBCC SHRINKDATABASE (AmazonVolumetriaDB);
+GO
+
+-- 1. Le ponemos su Llave Primaria (Obligatorio para paginación en C#)
+-- Le ponemos su Llave Primaria
+ALTER TABLE Tabla_Resenas 
+ADD IdResena INT IDENTITY(1,1) PRIMARY KEY;
+GO
+
+-- 2. Le creamos el Índice al ASIN para que las búsquedas vuelen ?
+-- Creamos el Índice para el ASIN
+CREATE NONCLUSTERED INDEX IX_TablaResenas_ASIN 
+ON Tabla_Resenas (asin);
+GO
+
+SELECT TOP 8000000 R.asin, M.title 
+FROM Tabla_Resenas R
+INNER JOIN Tabla_Metadata M ON R.asin = M.asin
