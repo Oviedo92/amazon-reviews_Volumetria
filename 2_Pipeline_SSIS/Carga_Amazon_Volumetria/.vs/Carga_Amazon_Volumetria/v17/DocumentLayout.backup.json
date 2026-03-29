@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wORK\\source\\repos\\Carga_Amazon_Volumetria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C5AB5A-FA6B-57FF-FFF5-146DE1F51E76}|Carga_Amazon_Volumetria.dtproj|C:\\Users\\wORK\\source\\repos\\Carga_Amazon_Volumetria\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{07C5AB5A-FA6B-57FF-FFF5-146DE1F51E76}|Carga_Amazon_Volumetria.dtproj|solutionrelative:Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\Carga_Amazon_Volumetria\\Package.dtsx",
+              "RelativeDocumentMoniker": "Package.dtsx",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\Carga_Amazon_Volumetria\\Package.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Package.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAeaSURBVFhHzZhbbBxXGcd/Xnvt9W19Wcd2Yjt2aidpU6cJCUmc5kYLUYC2CQ1FgOABBEIFVTzwxEN4idQnhITEAypvgMSlENqmDeUiKIKUFqc2SEBL7Th1TOKNL2sn673Nzpzz8XDOrGcvrk3Uh/6lT7tzdr6Z//y/25mF9yNEpCp4fPKRJ5566NSZJ9GCFo0SAa1BBC2CBrTWoAXBrIk252iMjxYw/oLj5q/Nx\u002BPPXPzp93/ruXkveK/1UETs7Ge/dP7LTz517r57ehAEERAtaAERjRLQWoyJIamUWVNa0AhKmd9vxud4a2IymVhKjL/1z398Z/zypb\u002Bs3E4kg/d7N1QHD\u002B4d/sBDx44dO77n3n5ao420RRsLn20tjbS3NBlrbSLW2kSstZlYWzMd7c10tEXZ1N5MZyxKZ6yFdDrN8p1k3e6dA92JlOrylCTSK3cWnWw6G7znWggFD0QEEQkuUVUFoRBUh6qoqa4iXFNFXThEpDZEfV2IxkiIpvpqoo3VtDTW0NpUQ1tzDZHaKpoa69m3e0dksL/31ND9\u002B7/YM7j7WGNLR6zoBmugjJjWxcTuBiLmWk7eZSWT58DeYTo7Ok5v3b73C1sGHzhaV9/cXOpTigrEdHDp/4IESGktOI7L/EKShUSSHUNDdLTHTse2DH11666Ro6W\u002BpSgi9l5AYxgKMD1zk\u002B/\u002B4Ef88Ge/4LkXf82169N4nncU\u002BFypXymKiClbcXcDEUz1KtNhtm/r5ezHP8SJw4c4uH8fe3cP88DwMJu7uxuAllL/UpSEUt91KDW2tWD6XUtzI3t2DfGxjxzh0ZNHeezUcU4cGaGvt7fUtSLKcqy0KidvpnhjYrmizS3nEBGSGZexyWXGri4z7tvUbd6ezZCramBooJf7d2xjcKCP1pZ1xYJKxLSYxurj8psJnn1tjp\u002BPJors2VfjTM6mEWD\u002BTp4Ll2/yy9ElLryxxK/Glnh\u002BfJkXxhL84e9z5F2N0naIbDAgFYjpMtWkuQ3VNVBk1EUKeaUFqK5GbeorPq\u002BtCwE7MTBTgY3lcAkxkycbhlgF1nERq9YGxYJyYnbmrXMjH3Zeo0sULoUSQdnC2uiDFxHzB/RG88DPyfXuZa5b2KhsCGWKaamQBU6WUGq5yPDcQLGYJAqlbxedU5VNFfLQ9Mi7JqbRWhWFpqu1jsGoZrB2xVh4hXvCK/S319BYX4NoobY6RG8sQn9Niq2hJH1Vxnprc3S22CLxt0vlj10RRfuxE6c\u002Bef4rX/v6uTMnH6QhYnZEPketTRvxQ\u002BcrYHJSUNoUjtLmu98e/GmiBa7PLvG7P77CS8/9\u002BNLk2O8fC967FGWzspLcYmef3xr8fuQPCbHn2M0tYq\u002Bhxfr6PrJ\u002BBfuoEEqzU8USWU1wQclqEitAIXhKUB5oDzwNSoHnK6o0Sos5tjuX0h65Foqr0jr73V9E\u002BOt/lnj\u002BtVkuvh7nxb/FeWk0zqUrcV6\u002BEmf6Vtr62HbgP4RfhQV1Vx9ovQr2UVaVSmsruyE3cSPF6HSO12dhNA6jt\u002BDKHIxPp5hfdox6BUVMfhkSPjmfaKCCN4BiYv4F1KpiAkhDE7qtq8gI15rcKbyMWEJqNfQ\u002BOaV94uX5uxbKFDOhtL3HJu5a8PNOaaOEr4rSguNqUo5XsHTOI\u002BdqqA4TaWyJNLV29vhWU9/eQygSDV67JnhQqK5A9b0bxA5oQ8oOa1vZ126lGJtKFJ2vtRDp3sWHP7P9uP7UN/7tr//mT1NMvPqTb3Pr5af9tQqKrZqZa2tLprXZsZp3SxsyZdVWQqyplrOHuvnEoS7OHOjizMEuHh/ZwtkH\u002B8KPHxmIPjqyNXpyb0\u002B0uz0aJRSOBK9dUpW6kPx\u002BIxWBqkyS6kS8yHAdRDDnBzt7oJ/VhUN0tobpaAoTra\u002BmIQw1aLSncLIuqVSe\u002BHyKTLb8Jb1MMaXNXwN\u002BaLZvaeJAfwMHtoT44OYQ\u002B7tD7OsOsXdrlFhzbYHIakit2rZwtIDjajI5l2TaZSnpsLicYy6R5dZChun4Cul1iWmb/IG\u002BM9zfwvHhTo7t2sSRXR0cvq\u002BDkZ0xDu2I0dkaWQ1hoE0Utk5Wyazjkcl5pLPWci5pxyWTc8k4Hp4qT\u002BYKivlqmbahfBNB\u002BfmkgjPRnwj2d7smGsT\u002Bl5H1CWU90lmXTFaRscfZ7EaIYWeg\u002BDlm8scPib9ZVfatyDe/kpX9LtYH65dyfKU80o4inXMNMccj4ygq8CoPpZ9jSllFFHiBytPazD/lreZTYQehjGqeLR4R8DxFOutapYylsx6pnEcm45LNeagKzEp2sBrPU2SyLhPTCSamF5mcWeTq9QWuzvi2yNTMItf\u002Bu8jUzAJTMwtcs/bOjXneuTHP9I15lm6n0FrI53VBnYJqNt9SWY\u002BM46F0eUsq2o8NH3j4/OGHT5/b0r2ZlXS2MC9NaALfS9dtPhVGmECkpZttQzsYGYwy/vYiKxkTvlTOKOaTTabz/OvqMgtvXnia2Yvfqkisb3D40x09g08kkyvB5btCbODg0M79j\u002BwZ3BRhYuY2WUfh5BU5V5NzPPKuxnEVeU8zO59hZer5tYm9p2g/9Hm6PvrN0uU1sfjnZ1h45Xuly\u002B87/A8wgWn/lMVK/wAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-29T02:57:18.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
