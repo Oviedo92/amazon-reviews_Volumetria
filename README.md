@@ -57,6 +57,7 @@ Este repositorio documenta el ciclo de vida completo de un proyecto de alta volu
 ## 🧠 Arquitectura y Pipeline del Proyecto (Data Pipeline)
 El flujo de los datos desde su origen hasta el monitoreo en tiempo real:
 `Archivos Crudos -> Jupyter (Python) -> SSIS (ETL) -> SQL Server -> .NET Core API -> Nginx (Load Balancer) -> 3 Nodos Docker -> Prometheus/Grafana -> JMeter (Estrés)`
+![Schema Pipeline](assets/pipeline.png)
 
 ![Arquitectura Cloud SCHEMA](assets/reduce-latency-schema.jpg)
 
