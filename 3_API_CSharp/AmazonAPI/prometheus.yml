@@ -1,0 +1,17 @@
+global:
+  scrape_interval: 30s # Pregúntale cada medio minuto, no tan seguido
+  scrape_timeout: 25s  # Dale 25 segundos para que responda
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'amazon_api_cluster'
+    metrics_path: '/metrics'
+    # NOTA: Ya no usamos "scheme: https" ni "tls_config" porque en Docker usamos HTTP puro
+    static_configs:
+      - targets: 
+        - 'amazon_api_1:80'
+        - 'amazon_api_2:80'
+        - 'amazon_api_3:80'

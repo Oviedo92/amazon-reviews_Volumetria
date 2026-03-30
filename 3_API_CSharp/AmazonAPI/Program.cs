@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using AmazonAPI.Data;
+using Prometheus;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -47,6 +48,9 @@ app.UseHttpsRedirection();
 app.UseCors("PermitirTodo");
 
 app.UseAuthorization();
+
+app.UseHttpMetrics();
+app.MapMetrics();
 
 // 7. MAPEO DE LOS CONTROLADORES
 app.MapControllers();

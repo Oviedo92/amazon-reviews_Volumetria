@@ -1,0 +1,60 @@
+services:
+  # El primer obrero
+  amazon_api_1:
+    build: .
+    container_name: api_nodo_1
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings__AmazonDB=Server=host.docker.internal,1433;Database=AmazonVolumetriaDB;User Id=sa;Password=Amazon2024*;TrustServerCertificate=True"
+
+  # El segundo obrero
+  amazon_api_2:
+    build: .
+    container_name: api_nodo_2
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings__AmazonDB=Server=host.docker.internal,1433;Database=AmazonVolumetriaDB;User Id=sa;Password=Amazon2024*;TrustServerCertificate=True"
+
+  # El tercer obrero
+  amazon_api_3:
+    build: .
+    container_name: api_nodo_3
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "ConnectionStrings__AmazonDB=Server=host.docker.internal,1433;Database=AmazonVolumetriaDB;User Id=sa;Password=Amazon2024*;TrustServerCertificate=True"
+
+  # El jefe (Nginx) que ya configuraste
+  nginx_lb:
+    image: nginx:latest
+    container_name: nginx_balanceador
+    ports:
+      - "80:80" # JMeter entrará por aquí
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - amazon_api_1
+      - amazon_api_2
+      - amazon_api_3
+
+  # El chismoso que recolecta las métricas
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus_monitor
+    ports:
+      - "9090:9090"
+    volumes:
+      # Aquí es donde le pasamos tu archivo prometheus.yml al contenedor
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    depends_on:
+      - amazon_api_1
+      - amazon_api_2
+      - amazon_api_3
+
+  # El pintor que hace las gráficas bonitas
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana_dashboard
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus

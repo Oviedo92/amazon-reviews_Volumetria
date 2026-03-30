@@ -138,3 +138,5 @@ C:\Users\wORK\source\repos\AmazonAPI\obj\Debug\net8.0\refint\AmazonAPI.dll
 C:\Users\wORK\source\repos\AmazonAPI\obj\Debug\net8.0\AmazonAPI.pdb
 C:\Users\wORK\source\repos\AmazonAPI\obj\Debug\net8.0\AmazonAPI.genruntimeconfig.cache
 C:\Users\wORK\source\repos\AmazonAPI\obj\Debug\net8.0\ref\AmazonAPI.dll
+C:\Users\wORK\source\repos\AmazonAPI\bin\Debug\net8.0\Prometheus.NetStandard.dll
+C:\Users\wORK\source\repos\AmazonAPI\bin\Debug\net8.0\Prometheus.AspNetCore.dll

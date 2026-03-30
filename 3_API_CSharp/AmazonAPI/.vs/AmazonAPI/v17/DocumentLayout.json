@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\controllers\\metadatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:controllers\\metadatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\controllers\\resenascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:controllers\\resenascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\amazonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:amazonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\data\\amazondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\models\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:models\\resena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|c:\\users\\work\\source\\repos\\amazonapi\\amazonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A52690B6-9309-47E4-83BF-0C7F6A350FD6}|AmazonAPI.csproj|solutionrelative:amazonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,72 +63,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MetadataController.cs",
-              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\MetadataController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MetadataController.cs",
-              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\MetadataController.cs",
-              "RelativeToolTip": "Controllers\\MetadataController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:15:16.658Z",
+              "Title": "prometheus.yml",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\prometheus.yml",
+              "RelativeDocumentMoniker": "prometheus.yml",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\prometheus.yml",
+              "RelativeToolTip": "prometheus.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-29T23:50:17.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-29T23:40:13.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:39:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResenasController.cs",
               "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\ResenasController.cs",
               "RelativeDocumentMoniker": "Controllers\\ResenasController.cs",
               "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\ResenasController.cs",
               "RelativeToolTip": "Controllers\\ResenasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T17:07:49.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Metadata.cs",
-              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Metadata.cs",
-              "RelativeDocumentMoniker": "Models\\Metadata.cs",
-              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Metadata.cs",
-              "RelativeToolTip": "Models\\Metadata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:02:53.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AmazonDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Data\\AmazonDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AmazonDbContext.cs",
-              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Data\\AmazonDbContext.cs",
-              "RelativeToolTip": "Data\\AmazonDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T16:56:40.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resena.cs",
-              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Resena.cs",
-              "RelativeDocumentMoniker": "Models\\Resena.cs",
-              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Resena.cs",
-              "RelativeToolTip": "Models\\Resena.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T16:55:46.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AmazonAPI",
+              "DocumentIndex": 6,
+              "Title": "AmazonAPI.csproj",
               "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\AmazonAPI.csproj",
               "RelativeDocumentMoniker": "AmazonAPI.csproj",
               "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\AmazonAPI.csproj",
@@ -132,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -145,16 +140,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MetadataController.cs",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\MetadataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetadataController.cs",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Controllers\\MetadataController.cs",
+              "RelativeToolTip": "Controllers\\MetadataController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T16:39:46.059Z",
+              "WhenOpened": "2026-03-29T17:15:16.658Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resena.cs",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Resena.cs",
+              "RelativeDocumentMoniker": "Models\\Resena.cs",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Resena.cs",
+              "RelativeToolTip": "Models\\Resena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:55:46.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AmazonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Data\\AmazonDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AmazonDbContext.cs",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Data\\AmazonDbContext.cs",
+              "RelativeToolTip": "Data\\AmazonDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:56:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Metadata.cs",
+              "DocumentMoniker": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Metadata.cs",
+              "RelativeDocumentMoniker": "Models\\Metadata.cs",
+              "ToolTip": "C:\\Users\\wORK\\source\\repos\\AmazonAPI\\Models\\Metadata.cs",
+              "RelativeToolTip": "Models\\Metadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:02:53.574Z"
             }
           ]
         }
